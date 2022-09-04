@@ -1,6 +1,7 @@
 # NgTemplate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
+![version.png](resource/version.png)
 
 ## First run commands
 ```bash
